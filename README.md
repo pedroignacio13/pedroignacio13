@@ -7,15 +7,38 @@
   
   ##
   
+  <div>
+    <div>
+     :brazil:
+      - 🔭 Desenvolvedor front-end
+      - 🌱 Estudando Azure e NodeJS
+      - 😄 Pronomes: ele/dele
+    </div>
+    <div>
+      :us:
+      - 🔭 Front-end Developer
+      - 🌱 Studying Azure and NodeJS
+      - 😄 Pronouns: he/his
+    </div>
+    <div>
+      :es:
+      - 🔭 Desarollador front-end
+      - 🌱 Estudiando Azure e NodeJS
+      - 😄 Pronomes: él/él
+    </div>
+  </div>
+  
+  ##
+  
  <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/amazonwebservices/amazonwebservices-original.svg">
    <img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/benc-uk/icon-collection/7d69ccaabf63db7c1f3ebb64a110cbe5b39b1ce5/logos/azure-offical.svg">
-  <img align="center" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/sass/sass-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/java/java-original.svg">
+   <img align="center" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/sass/sass-original.svg">
+   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/java/java-original.svg">
 </div>
   
   ##
