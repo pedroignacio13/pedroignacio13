@@ -10,21 +10,21 @@
   <div>
     <div>
      :brazil:
-      - 🔭 Desenvolvedor front-end
-      - 🌱 Estudando Azure e NodeJS
-      - 😄 Pronomes: ele/dele
+      - 💻 Desenvolvedor front-end
+      - 📖 Estudando Azure e NodeJS
+      - 🤝🏻 Pronomes: ele/dele
     </div>
     <div>
       :us:
-      - 🔭 Front-end Developer
-      - 🌱 Studying Azure and NodeJS
-      - 😄 Pronouns: he/his
+      - 💻 Front-end Developer
+      - 📖 Studying Azure and NodeJS
+      - 🤝🏻 Pronouns: he/his
     </div>
     <div>
       :es:
-      - 🔭 Desarollador front-end
-      - 🌱 Estudiando Azure e NodeJS
-      - 😄 Pronomes: él/él
+      - 💻 Desarollador front-end
+      - 📖 Estudiando Azure e NodeJS
+      - 🤝🏻 Pronomes: él/él
     </div>
   </div>
   
