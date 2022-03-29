@@ -1,9 +1,4 @@
 ## Oi, eu sou o Pedro! 👋 Hi, my name is Pedro!
-<div>
-  <a href="https://github.com/pedroignacio13">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroignacio13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroignacio13&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
   
   ##
   
