@@ -1,7 +1,5 @@
 ## Oi, eu sou o Pedro! 👋 Hi, my name is Pedro!
   
-  ##
-  
   <div>
     <div>
      :brazil:
