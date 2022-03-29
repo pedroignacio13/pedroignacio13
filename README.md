@@ -1,4 +1,4 @@
-## Oi, eu sou o Pedro! 👋 Hi, my name is Pedro! 👋 ¡Hola!¡Me llamo Pedro!
+## Oi, eu sou o Pedro! 👋 Hi, my name is Pedro!
 <div>
   <a href="https://github.com/pedroignacio13">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroignacio13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -10,21 +10,15 @@
   <div>
     <div>
      :brazil:
-      - 💻 Desenvolvedor front-end
-      - 📖 Estudando Azure e NodeJS
+      - 💻 Arquiteto de TI
+      - 📖 2x Azure Certified | AWS e Azure | Experiência como Desenvolvedor Front-End
       - 🤝🏻 Pronomes: ele/dele
     </div>
     <div>
       :us:
-      - 💻 Front-end Developer
-      - 📖 Studying Azure and NodeJS
+      - 💻 IT Architect
+      - 📖 2x Azure Certified | AWS and Azure | Experienced Front-End Developer
       - 🤝🏻 Pronouns: he/his
-    </div>
-    <div>
-      :es:
-      - 💻 Desarollador front-end
-      - 📖 Estudiando Azure e NodeJS
-      - 🤝🏻 Pronomes: él/él
     </div>
   </div>
   
