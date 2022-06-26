@@ -3,7 +3,7 @@
   
   <div>
     <div>
-      - 💻 IT Architect \n
+      - 💻 IT Architect
       - 📖 2x Microsoft Azure Certified | Experienced Front-End Developer | Always learning new things
       - 🤝🏻 Pronouns: he/his
       - You'll find here my study summaries and coding projects resources. 
