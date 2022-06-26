@@ -1,20 +1,13 @@
-## Oi, eu sou o Pedro! 👋 Hi, my name is Pedro!
+## 👋 Hi, my name is Pedro!
   
   
   <div>
     <div>
-     :brazil:
-      - 💻 Arquiteto de TI
-      - 📖 2x Azure Certified | AWS e Azure | Experiência como Desenvolvedor Front-End
-      - 🤝🏻 Pronomes: ele/dele
-      - Aqui você encontrará resumos dos meus estudos e recursos para projetos.
-    </div>
-    <div>
       :us:
       - 💻 IT Architect
-      - 📖 2x Azure Certified | AWS and Azure | Experienced Front-End Developer
+      - 📖 2x Microsoft Azure Certified | Experienced Front-End Developer | Always learning new things
       - 🤝🏻 Pronouns: he/his
-      - You'll find here my study summaries and projects resources. 
+      - You'll find here my study summaries and coding projects resources. 
     </div>
   </div>
   
