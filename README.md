@@ -26,7 +26,7 @@
     Knowledge using AWS <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/amazonwebservices/amazonwebservices-original.svg">
   </div> </br>
    <div>
-     Experience using NodeJS  , and learning Go  .
+     Experience using NodeJS <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg">, and learning Go <img align="center" alt="GoLang" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/gopher.svg">.
   </div> </br>
 </div>
   
