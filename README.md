@@ -23,11 +23,20 @@
    <img align="center" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/sass/sass-original.svg">
   </div> </br>
   <div>
+    My Back-End Stack:
+   <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg">
+   <img align="center" alt="GoLang" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/gopher.svg"> (learning)
+  </div>
+  <div>
+    My Cloud Certifications: 
+  <img align="center" alt="Azure Fundamentals" height="30" width="40" src="https://docs.microsoft.com/pt-BR/learn/media/msle/microsoft-fundamentals-certification.svg">
+  </div>
+  <div>
     Currently improving my skills in Microsoft Azure <img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/benc-uk/icon-collection/7d69ccaabf63db7c1f3ebb64a110cbe5b39b1ce5/logos/azure-offical.svg">.
     Knowledge using AWS <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/amazonwebservices/amazonwebservices-original.svg">
   </div> </br>
    <div>
-     Experience using NodeJS <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg">, and learning Go <img align="center" alt="GoLang" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/gopher.svg">.
+     Experience using NodeJS, and learning Go.
   </div> </br>
 </div>
   
