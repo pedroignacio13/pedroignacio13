@@ -30,8 +30,8 @@
   <div>
     My Cloud Certifications: 
   <img align="center" alt="Azure Fundamentals" height="30" width="40" src="https://docs.microsoft.com/pt-BR/learn/media/msle/microsoft-fundamentals-certification.svg">
-  <img align="center" alt="Azure Administrator Associate" height="30" width="40" src="https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png">
-  </div>
+  <img align="center" alt="Azure Administrator Associate" height="30" width="30" src="https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png">
+  </div> </br>
   <div>
     Currently improving my skills in Microsoft Azure <img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/benc-uk/icon-collection/7d69ccaabf63db7c1f3ebb64a110cbe5b39b1ce5/logos/azure-offical.svg">.
     Knowledge using AWS <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/amazonwebservices/amazonwebservices-original.svg">
