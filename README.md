@@ -4,9 +4,9 @@
   <div>
     <div>
       - 💻 IT Architect </br>
-      - 📖 2x Microsoft Azure Certified | Experienced Front-End Developer | Always learning new things </br>
-      - You'll find here my study summaries and coding projects resources. </br>
-      - About Me: college graduated in <em>Systems Analysis and Development</em> with practical experience in front-end development. Currently working for a big brazilian private bank as a Solutions Architect. My studies are directed to cloud native architectures and scalable systems design.
+      - 📖 AWS and Azure Certified | Cloud Solutions Architect </br>
+      - You'll find here my study summaries and coding projects. </br>
+      - About Me: college graduated in <em>Systems Analysis and Development</em> with experience in front-end development. Currently working for a big brazilian private bank as a Solutions Architect. I've been studying micro front-end architectures, high performing, scalable and highly available cloud solutions.
     </div>
   </div>
   
