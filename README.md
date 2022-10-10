@@ -39,8 +39,8 @@
     <img align="center" alt="Kubernetes" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/labs/thumb/b/ba/Kubernetes-icon-color.svg/2110px-Kubernetes-icon-color.svg.png">
     <img align="center" alt="Grafana" height="30" width="30" src="https://uploads-ssl.webflow.com/627ba6588811eca90ffd6f2a/6282a6afbfe3d16f0a4d67f9_grafana.png">
     <img align="center" alt="Golang" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/gopher.svg">
-    <img align="center" alt="Prometheus" height="30" width="30" src="https://1.bp.blogspot.com/-ewj3D59rYnU/XYNB-5ze8fI/AAAAAAAATPw/OZry-jKaOEQIOvyEuBeHXi93C4cOSJCHwCLcBGAsYHQ/w1200-h675-p-k-no-nu/prometheus-linuxguru.png">
-    <img align="center" alt="Docker" height="30" width="30" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png">
+    <img align="center" alt="Prometheus" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/1200px-Prometheus_software_logo.svg.png">
+    <img align="center" alt="Docker" height="30" width="40" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png">
   </div>
 </div>
   
