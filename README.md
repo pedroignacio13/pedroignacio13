@@ -33,6 +33,7 @@
   <img align="center" alt="Azure Fundamentals" height="30" width="40" src="https://docs.microsoft.com/pt-BR/learn/media/msle/microsoft-fundamentals-certification.svg">
   <img align="center" alt="Azure Administrator Associate" height="30" width="30" src="https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png">
   <img align="center" alt="AWS Cloud Pratictioner" height="30" width="30" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
+  <img align="center" alt="Azure Security, Compliance and Identity Fundamentals" height="30" width="30" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg">
   </div> </br>
   <div>
     Some technologies I like: 
