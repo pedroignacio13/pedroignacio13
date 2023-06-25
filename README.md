@@ -6,8 +6,8 @@
       - 💻 Solutions Architect </br>
       - 📖 AWS and Azure Certified | Cloud Solutions Architect </br>
       - You'll find here my study summaries and coding projects. </br>
-      - About Me: college graduated in <em>Systems Analysis and Development</em> with experience in front-end development. Currently working for a big brazilian private bank as a Solutions Architect. I really like to code and to build cloud architectures. </br>
-      - Tech Interests: Golang, Cloud, Kubernetes and Observability (mostly Grafana's stack).
+      - About Me: college graduated in <em>Systems Analysis and Development</em> with experience in front-end development. Currently working for a big brazilian private bank as a Cybersecurity Architect. I like to study, code and build cloud architectures. </br>
+      - Tech Interests: Golang, Cloud, IaC, Kubernetes and Observability (mostly Grafana's stack).
     </div>
   </div>
   
@@ -34,6 +34,10 @@
   <img align="center" alt="Azure Administrator Associate" height="30" width="30" src="https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png">
   <img align="center" alt="AWS Cloud Pratictioner" height="30" width="30" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
   <img align="center" alt="Azure Security, Compliance and Identity Fundamentals" height="30" width="30" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg">
+  </div> </br>
+   <img align="center" alt="Azure Security Engineer" height="30" width="30" src="https://images.credly.com/size/680x680/images/1ad16b6f-2c71-4a2e-ae74-ec69c4766039/azure-security-engineer-associate600x600.png">
+   <img align="center" alt="Terraform Associate" height="30" width="30" src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png">
+   <img align="center" alt="Azure Solutions Architect Expert" height="30" width="30" src="https://images.credly.com/size/680x680/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png">
   </div> </br>
   <div>
     Some technologies I like: 
