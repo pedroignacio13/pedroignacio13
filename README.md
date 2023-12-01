@@ -3,11 +3,11 @@
   
   <div>
     <div>
-      - 💻 Solutions Architect </br>
-      - 📖 AWS and Azure Certified | Cloud Solutions Architect </br>
+      - 💻 Cybersecurity Architect </br>
+      - 📖 Azure, AWS and Terraform Certified | IAM and Cloud Security Specialist </br>
       - You'll find here my study summaries and coding projects. </br>
-      - About Me: college graduated in <em>Systems Analysis and Development</em> with experience in front-end development. Currently working for a big brazilian private bank as a Cybersecurity Architect. I like to study, code and build cloud architectures. </br>
-      - Tech Interests: Golang, Cloud, IaC, Kubernetes and Observability (mostly Grafana's stack).
+      - About Me: college graduated in <em>Software Engineering</em> with experience in front-end development. Currently working for a big brazilian private bank as a Cybersecurity Architect. I like to learn, talk and build things. </br>
+      - Tech Interests: Kubernetes, Observability (mostly Grafana's stack), Serverless and Cybersecurity (not exactly on this order).
     </div>
   </div>
   
