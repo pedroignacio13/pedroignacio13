@@ -4,10 +4,10 @@
   <div>
     <div>
       - 💻 Cybersecurity Architect </br>
-      - 📖 Azure, AWS and Terraform Certified | IAM and Cloud Security Specialist </br>
-      - You'll find here my study summaries and coding projects. </br>
-      - About Me: college graduated in <em>Software Engineering</em> with experience in front-end development. Currently working for a big brazilian private bank as a Cybersecurity Architect. I like to learn, talk and build things. </br>
-      - Tech Interests: Kubernetes, Observability (mostly Grafana's stack), Serverless and Cybersecurity (not exactly on this order).
+      - 📖 Azure, AWS and Terraform Certified | Identity and Cloud Security Specialist </br>
+      - Here you'll find some projects and some of my contributions. </br>
+      - About Me: college graduated in <em>Software Engineering</em>, I'm a Cybersecurity Architect and a Cloud Native lover. </br>
+      - Tech Interests: Cloud Native solutions, Open Source, Observability, Serverless and Cybersecurity.
     </div>
   </div>
   
