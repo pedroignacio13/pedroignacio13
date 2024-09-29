@@ -3,10 +3,10 @@
   
   <div>
     <div>
-      - 💻 Cybersecurity Architect </br>
+      - 💻 Solutions Engineer </br>
       - 📖 Azure, AWS and Terraform Certified | Identity and Cloud Security Specialist </br>
       - Here you'll find some projects and some of my contributions. </br>
-      - About Me: college graduated in <em>Software Engineering</em>, I'm a Cybersecurity Architect and a Cloud Native lover. </br>
+      - About Me: college graduated in <em>Software Engineering</em>, I'm a Solutions Engineer and a Cloud Native lover. </br>
       - Tech Interests: Cloud Native solutions, Open Source, Observability, Serverless and Cybersecurity.
     </div>
   </div>
