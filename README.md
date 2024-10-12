@@ -1,13 +1,13 @@
-## 👋 Hi, my name is Pedro!
+## 👋 Hi, my name is Pedro! 🇧🇷
   
   
   <div>
     <div>
       - 💻 Solutions Engineer </br>
       - 📖 Identity and Cloud Security Specialist | Open Source enthusiast </br>
-      - Here you'll find a couple of my projects and also my open source contributions. </br>
-      - Since you're already here, please check my <link src="pedroscloudsecurity.com">blog</link> and add me on <link src="https://www.linkedin.com/in/pedroirufo/?locale=en_US">Linkedin</link> <3 </br>
-      - If you have any questions or just want to talk about tech, hit me up!
+      - 🐧 Here you'll find a couple of my projects and also my open source contributions. </br>
+      - 🌐 Since you're already here, please check my <link src="pedroscloudsecurity.com">blog</link> and add me on <link src="https://www.linkedin.com/in/pedroirufo/?locale=en_US">Linkedin</link> <3 </br>
+      - 🤝 If you have any questions or just want to talk about tech, hit me up!
     </div>
   </div>
   
