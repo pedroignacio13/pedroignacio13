@@ -13,7 +13,12 @@
   
   ##
 
-  My coding stack: [![My Skills](https://skillicons.dev/icons?i=go,js,nodejs,react,py&perline=5)](https://skillicons.dev)
+  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
+  <h2>My coding stack</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,js,nodejs,react,py&perline=5" alt="My Skills">
+  </a>
+</div>
   
  <div style="display: inline_block"><br>
   <div>
