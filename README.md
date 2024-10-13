@@ -12,12 +12,10 @@
   </div>
   
   ##
+
+  My coding stack: [![My Skills](https://skillicons.dev/icons?i=go,js,nodejs,react,py&perline=5)](https://skillicons.dev)
   
  <div style="display: inline_block"><br>
-    [![My Skills](https://skillicons.dev/icons?i=go,js,nodejs,react,py&perline=5)](https://skillicons.dev) 
-    My Back-End Stack:
-   <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg">
-   <img align="center" alt="GoLang" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/gopher.svg">
   <div>
     My Cloud Certifications: 
   <img align="center" alt="Azure Fundamentals" height="30" width="40" src="https://docs.microsoft.com/pt-BR/learn/media/msle/microsoft-fundamentals-certification.svg">
