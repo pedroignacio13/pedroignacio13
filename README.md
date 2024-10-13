@@ -14,35 +14,20 @@
   ##
 
   <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
-  <h2>My coding stack</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,js,nodejs,react,py&perline=5" alt="My Skills">
-  </a>
-</div>
-  
- <div style="display: inline_block"><br>
-  <div>
-    My Cloud Certifications: 
-  <img align="center" alt="Azure Fundamentals" height="30" width="40" src="https://docs.microsoft.com/pt-BR/learn/media/msle/microsoft-fundamentals-certification.svg">
-  <img align="center" alt="Azure Security, Compliance and Identity Fundamentals" height="30" width="30" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg">
-   <img align="center" alt="Azure Data Fundamentals" height="30" width="40" src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg">
-   <img align="center" alt="AWS Cloud Pratictioner" height="30" width="30" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
-   <img align="center" alt="Azure Administrator Associate" height="30" width="30" src="https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png">
-   <img align="center" alt="Azure Security Engineer" height="30" width="30" src="https://images.credly.com/size/680x680/images/1ad16b6f-2c71-4a2e-ae74-ec69c4766039/azure-security-engineer-associate600x600.png">
-   <img align="center" alt="Azure identity and Access Administrator" height="30" width="30" src="https://images.credly.com/size/680x680/images/91295436-0704-4b98-8e1a-ef5f937bda21/identity-and-access-administrator-associate-600x600.png">
-   <img align="center" alt="Azure Solutions Architect Expert" height="30" width="30" src="https://images.credly.com/size/680x680/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png">
-   <img align="center" alt="Azure Cybersecurity Architect Expert" height="30" width="30" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1718479458693/cae8d708-36cb-416d-9116-cf69afbe73c5.png?auto=compress,format&format=webp">
-   <img align="center" alt="Terraform Associate" height="30" width="30" src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png">
-  </div> </br>
-  <div>
-    Some technologies I like: 
-    <img align="center" alt="Kubernetes" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/labs/thumb/b/ba/Kubernetes-icon-color.svg/2110px-Kubernetes-icon-color.svg.png">
-    <img align="center" alt="Grafana" height="30" width="30" src="https://uploads-ssl.webflow.com/627ba6588811eca90ffd6f2a/6282a6afbfe3d16f0a4d67f9_grafana.png">
-    <img align="center" alt="Golang" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/gopher.svg">
-    <img align="center" alt="Prometheus" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/1200px-Prometheus_software_logo.svg.png">
-    <img align="center" alt="Docker" height="30" width="40" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png">
+    <h3>My coding stack</h3>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=go,js,nodejs,react,py&perline=5" alt="My Skills">
+    </a>
   </div>
-</div>
+
+  ##
+
+  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
+    <h3>My infra stack</h3>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=kubernetes,linux,docker,grafana,nginx,terraform,azure,aws&perline=5" alt="My Skills">
+    </a>
+  </div>
   
   ##
   
