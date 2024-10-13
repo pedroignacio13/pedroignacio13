@@ -13,12 +13,9 @@
   
   ##
   
-  
+  [![My Skills](https://skillicons.dev/icons?i=go,js,nodejs,react,py&perline=5)](https://skillicons.dev)
  <div style="display: inline_block"><br>
-   <div>
-     My coding stack: 
-     [![My Skills](https://skillicons.dev/icons?i=go,js,nodejs,react,py&perline=5)](https://skillicons.dev)
-  <div>
+   
     My Back-End Stack:
    <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg">
    <img align="center" alt="GoLang" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/gopher.svg">
