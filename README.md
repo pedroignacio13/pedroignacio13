@@ -16,13 +16,8 @@
   
  <div style="display: inline_block"><br>
    <div>
-     My Front-End Stack: 
-     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/sass/sass-original.svg">
-  </div> </br>
+     My coding stack: 
+     [![My Skills](https://skillicons.dev/icons?i=go,js,nodejs,react,py)](https://skillicons.dev)
   <div>
     My Back-End Stack:
    <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg">
