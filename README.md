@@ -23,7 +23,7 @@
   ##
 
   <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
-    <h3>My infra stack</h3>
+    <h3>My DevOps stack</h3>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=kubernetes,linux,docker,grafana,nginx,terraform,azure,aws&perline=8" alt="My Skills">
     </a>
